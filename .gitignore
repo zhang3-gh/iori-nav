@@ -3,6 +3,7 @@
 Thumbs.db
 
 node_modules/
+.agent-teams/
 .wrangler/
 wrangler.toml
 
@@ -21,6 +22,7 @@ wrangler.toml
 .github/
 .agent/
 .roo/
+.zcode/
 .shared/
 .windsurf/
 *.swp
